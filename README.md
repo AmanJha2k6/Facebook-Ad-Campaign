@@ -18,5 +18,49 @@ GlobalShala's marketing team ran multiple Facebook ad campaigns for an event cal
 ---
 
 ## 📁 Project Structure
+## 🛠 Tools & Skills Used
+Microsoft Excel – for organizing and analyzing campaign data
+
+PowerPoint – for designing the final presentation slides
+
+Data Visualization Principles – applied to make clear, effective visuals
+
+Team Collaboration – for working on analysis, design, and presentation
+
+Basic Marketing Knowledge – to understand metrics like reach, engagement, CPC
+
+## 📈 Key Deliverables
+Data visualizations highlighting performance metrics across multiple ad campaigns
+
+Identified and recommended discontinuing the least cost-effective ad campaign
+
+A professionally designed presentation for non-marketing stakeholders (Finance team)
+
+A recorded video presentation with voiceover explaining the findings
+
+Individual reflection video and 360-degree internship evaluation
+
+## 🎯 Learning Outcomes
+Gained hands-on experience in analyzing real-world marketing data
+
+Learned how to design visualizations that are both informative and visually clear
+
+Improved skills in storytelling with data for non-technical audiences
+
+Practiced giving virtual presentations and communicating insights effectively
+
+Understood how data can be used to support business decisions
+
+## 🧠 What I Learned
+Real-world application of Excel and visualization best practices
+
+Importance of tailoring communication to your audience (e.g., Finance team)
+
+Value of teamwork in a virtual setting
+
+How to make actionable, data-driven recommendations
+
+How to present complex analysis in a simple, engaging way
+
 
 
